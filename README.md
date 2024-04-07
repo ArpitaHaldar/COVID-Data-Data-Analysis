@@ -1,6 +1,6 @@
 <h1 align="center">COVID-19 Dataset Data-Analysis</h1>
 
-<p align="center" <a target="_blank" rel="noreferrer"> <img src="https://newsroom.uvahealth.com/wp-content/uploads/2022/08/GettyCOVID.jpg" alt="COVID" width="900" height="400" /> </a>
+<p align="center" <a target="_blank" rel="noreferrer"> <img src="https://newsroom.uvahealth.com/wp-content/uploads/2022/08/GettyCOVID.jpg" alt="COVID" width="800" height="350" /> </a>
 
 ## Introduction:
 
@@ -8,9 +8,9 @@ This repository contains code and visualizations for exploratory data analysis (
 
 ## What's Included:
 
-* Jupyter notebooks for data loading, cleaning, and transformation.
-* Pandas, Numpy, matplotlib.pyplot, Seaborn for interactive exploration and visualization creation.
-* MS Excel for Visualizations (charts and graphs) depicting key trends in the data.
+* **Jupyter Notebooks** for data loading, cleaning, and transformation.
+* **Pandas, Numpy, matplotlib.pyplot, Seaborn** for interactive exploration and visualization creation.
+* **MS Excel** for Visualizations (charts and graphs) depicting key trends in the data.
 
 ## This project provides an answer to these questions:
 
