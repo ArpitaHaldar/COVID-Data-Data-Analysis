@@ -30,3 +30,12 @@ This repository contains code and visualizations for exploratory data analysis (
 ## Examine those answers:
 
 [Excel Answer Worksheet](https://github.com/ArpitaHaldar/COVID-Data-Data-Analysis/blob/main/COVID_EDA(ArpitaHaldar).xlsx)
+
+## Conclusion:
+
+In conclusion, our COVID-19 EDA project has provided valuable insights into the pandemic's trends and correlations, aiding decision-making. We're grateful for collaboration and contributions. Moving forward, let's continue leveraging data to combat COVID-19 and build a healthier future. Stay safe, informed, and united.
+
+## Created by:
+
+- [@ArpitaHaldar](https://github.com/ArpitaHaldar)
+- Arpita Haldar - Data Analyst
