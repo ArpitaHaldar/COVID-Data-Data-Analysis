@@ -29,3 +29,4 @@ This repository contains code and visualizations for exploratory data analysis (
 
 ## Examine those answers:
 
+[Excel Answer Worksheet](https://github.com/ArpitaHaldar/COVID-Data-Data-Analysis/blob/main/COVID_EDA(ArpitaHaldar).xlsx)
