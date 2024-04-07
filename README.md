@@ -1,4 +1,7 @@
-# COVID-Data-Data-Analysis
+<h1 align="center">COVID-19 Dataset Data-Analysis</h1>
+
+<p align="center" <a target="_blank" rel="noreferrer"> <img src="https://newsroom.uvahealth.com/wp-content/uploads/2022/08/GettyCOVID.jpg" alt="COVID" width="900" height="400" /> </a>
+
 ## Introduction:
 
 This repository contains code and visualizations for exploratory data analysis (EDA) of a COVID-19 dataset. The goal is to gain insights into the spread of the virus, identify trends, and inform potential strategies to combat the pandemic.
